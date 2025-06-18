@@ -1,0 +1,45 @@
+18:24:18.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.460 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.460 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.461 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.463 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:24:18.472 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+18:24:18.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.475 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:24:18.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:24:18.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akulab\AppData\Local\Temp\testng-eclipse-216516434\testng-customsuite.xml
+
+18:24:18.512 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+18:24:18.867 [main] INFO  api.test.UserTests - ********** Creating user ************
+18:24:25.764 [main] INFO  api.test.UserTests - ********** User is Created ************
+18:24:25.772 [main] INFO  api.test.UserTests - ********** Reading User Info ************
+18:24:26.824 [main] INFO  api.test.UserTests - ********** Updating User ************
+18:24:30.926 [main] INFO  api.test.UserTests - ********** User is updated ************
+18:24:31.923 [main] INFO  api.test.UserTests - ********** Deleting User ************
+18:24:33.009 [main] INFO  api.test.UserTests - ********** User Deleted ************
+18:24:33.288 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@55317c63: 205 ms
+18:24:33.324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@31de27c: 36 ms
+18:24:33.346 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1eb7ec59: 22 ms
+18:24:33.365 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@13047d3d: 18 ms
+18:24:33.385 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e6bd367: 19 ms
+18:24:33.385 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2bd7f686: 0 ms
+18:25:48.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\RestAssuredAutomation\RestAssured_Framework\testng.xml"
+18:25:48.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RestAssuredAutomation\RestAssured_Framework\testng.xml
+
+18:25:49.072 [main] INFO  api.test.PetTests - ********** Adding a new pet to the store ************
+18:25:53.429 [main] INFO  api.test.PetTests - ********** Added a new pet to the store ************
+18:25:53.451 [main] INFO  api.test.PetTests - ********** Finding pet by ID ************
+18:25:54.542 [main] INFO  api.test.PetTests - ********** Found pet by ID ************
+18:25:54.546 [main] INFO  api.test.PetTests - ********** Updates a pet in the store with form data ************
+18:25:55.642 [main] INFO  api.test.PetTests - ********** Updated a pet in the store with form data ************
+18:25:56.727 [main] INFO  api.test.PetTests - ********** Deleting a pet by ID ************
