@@ -11,8 +11,9 @@
 1. **Endpoints**
 
    * **UserEndPoints, StoreEndPoints, PetEndPoints**
-   * Contains the RESTful URLs for different modules like user, store, and pet.
-   * Central place to manage endpoint paths.
+   * Provides reusable static methods to perform API operations
+   * Keeps the tests clean and maintainable.
+   * Uses property-based URL configuration via routes.properties.
 
 2. **Test Cases**
 
@@ -23,7 +24,7 @@
 3. **Properties**
 
    * `routes.properties`
-   * Used to manage dynamic configurations like base URLs and endpoint paths.
+   * Used to manage dynamic configurations like base URLs and endpoint paths (e.g., User, Store, Pet).
    * Keeps the codebase flexible and easy to maintain.
 
 4. **Payloads (POJO - Plain Old Java Objects)**
