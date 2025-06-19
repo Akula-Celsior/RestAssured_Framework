@@ -1,6 +1,10 @@
+
 **REST Assured API automation framework** with a clean modular structure designed for testing RESTful web services.
 
 ---
+### **Project Structure**
+
+![image](https://github.com/user-attachments/assets/8dd5e4b5-2a01-43cc-9c35-7dd9558fc341)
 
 ### 🔧 **Development Phase Components**
 
